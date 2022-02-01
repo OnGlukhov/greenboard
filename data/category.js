@@ -1,0 +1,23 @@
+export const category = [
+  {id: 1, name: 'Изовент', subcategory:['Сорт 2/4','Сорт 3/4', 'Сорт 4/4']},
+  {id: 2, name: 'Изовент-Л', subcategory:['Сорт 3/3']},
+  {id: 3, name: 'Изовент-СЛ', subcategory:['Сорт 3/3']},
+  {id: 4, name: 'Изолайт', subcategory:['Сорт 3/3']},
+  {id: 5, name: 'Изолайт Люкс', subcategory:['Сорт 3/3']},
+  {id: 6, name: 'Изолайт-Л', subcategory:['Сорт 3/3']},
+  {id: 7, name: 'Изоруф', subcategory:['Сорт 3/3']},
+  {id: 8, name: 'Изоруф-B', subcategory:['Сорт 3/3']},
+  {id: 9, name: 'Изоруф-Н', subcategory:['Сорт 3/3']},
+  {id: 10, name: 'Изоруф-НЛ', subcategory:['Сорт 3/3']},
+  {id: 11, name: 'Изофлор', subcategory:['Сорт 3/3']},
+  {id: 12, name: 'П-125', subcategory:['Сорт 3/3']},
+  {id: 13, name: 'ПП-60', subcategory:['Сорт 3/3']},
+  {id: 14, name: 'ПП-75', subcategory:['Сорт 3/3']},
+  {id: 15, name: 'ПП-80', subcategory:['Сорт 3/3']},
+  {id: 16, name: 'Супер Плита', subcategory:['Сорт 3/3']},
+  {id: 17, name: 'Супер Теплый', subcategory:['Сорт 3/3']},
+  {id: 18, name: 'Супер утепленный', subcategory:['Сорт 3/3']},
+  {id: 19, name: 'Ультралайт', subcategory:['Сорт 3/3']},
+  // {id: 3, name: 'ЛФСФ (1220х2440мм)', subcategory:['Китай','Россия']},
+
+]
